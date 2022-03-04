@@ -1,0 +1,3 @@
+A laborfeladat alapján alkottam meg a feladatot és egy interfészben (IShape) definiáltam az alakzatok közös attribűtumait és metódusait.
+Mivel interfészt meg tud valósítani egy osztály az ősosztályán felül is, így meg tudtam valósítani az 'EditBox' osztályt.
+Az osztályoknak nem írtam gettereket mert nem szerepeétek a feladatkiírásában, de ez gyorsan pótolható akár.

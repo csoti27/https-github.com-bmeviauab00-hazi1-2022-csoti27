@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Shapes.Program">
+    <Position X="11.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shapes.ShapeBase">
+    <Position X="5.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAABgAGAAABA=</HashCode>
+      <FileName>ShapeBase.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Shapes.Square">
+    <Position X="7" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAAAAAAAAAQAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>ShapeBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shapes.Circle">
+    <Position X="4.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>ShapeBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shapes.EditBox">
+    <Position X="8" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAGAAABA=</HashCode>
+      <FileName>ShapeBase.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Shapes.ShapeInventory">
+    <Position X="9.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAEAAAAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>ShapeInventory.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="shapeList" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Interface Name="Shapes.IShape">
+    <Position X="12" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAGAAABA=</HashCode>
+      <FileName>IShape.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
